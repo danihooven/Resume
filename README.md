@@ -1,5 +1,10 @@
-# HTML5 - Udemy
+# HTML - Udemy
 
+Udemy - Complete Web Dev Bootcamp 2021
+  Section 2: Introduction to HTML
+  Section 3: Intermediate HTML
+
+HTML5
 Learn the anatomy of HTML syntax to structure your websites.
 Understand the HTML boilerplate and HTML doctypes.
 How to structure text in HTML.
